@@ -1,4 +1,4 @@
-#hinvader  
+# hinvader  
 "hinvader" is simple clone of invader game written by haskell.  
 You can play this game with the following.  
 * 1. Compile the source code with GHC.
